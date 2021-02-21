@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{77E8AE1B-E7A6-45EB-8076-51D4677FE8E2}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/MainActivity.cs">
+    <Files>
+      <File FileName="qrReader2/MainPage.xaml" Line="10" Column="69" />
+      <File FileName="qrReader2/MainPage.xaml.cs" Line="3" Column="30" />
+      <File FileName="qrReader2/App.xaml.cs" Line="15" Column="9" />
+      <File FileName="Droid/MainActivity.cs" Line="29" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.qrReader2.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2F0C4375-146C-41FF-9647-67A37B1CFC9B">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.qrReader2.iOS>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.qrReader2.Droid PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MultiItemStartupConfigurations />
+</Properties>
